@@ -1,0 +1,54 @@
+,founds,is_substrings,doc_texts,tokens
+0,True,0,Reportable,Reportable
+1,True,0,IN THE SUPREME COURT OF INDIA,IN THE SUPREME COURT OF INDIA
+2,True,0,CIVIL APPELLATE JURISDICTION,CIVIL APPELLATE JURISDICTION
+3,True,0,Civil Appeal Nos 9367-9369 of 2011,Civil Appeal Nos 9367-9369 of 2011
+4,True,0,"The Secretary, Ministry of Defence","The Secretary, Ministry of Defence"
+5,True,0,Versus,Versus
+6,True,0,Babita Puniya & Ors.,Babita Puniya & Ors.
+7,True,0,With,With
+8,True,0,Civil Appeal Nos 1127-1128 of 2013,Civil Appeal Nos 1127-1128 of 2013
+9,True,1,With,And With
+10,True,0,And With,And With
+11,True,0,Civil Appeal No. 1210 of 2020,Civil Appeal No. 1210 of 2020
+12,True,1,Signature Not Verified,Signature Not Verified Digitally signed by
+13,True,1,Digitally signed by,Signature Not Verified Digitally signed by
+14,True,0,SANJAY KUMAR,SANJAY KUMAR
+15,True,0,Date: 2020.02.17,Date: 2020.02.17
+16,True,1,13:49:23 IST,13:49:23 IST Reason:
+17,True,1,Reason:,13:49:23 IST Reason:
+18,True,0,1,1
+19,True,0,JUDGMENT,JUDGMENT
+20,True,0,"Dr Dhananjaya Y Chandrachud, J","Dr Dhananjaya Y Chandrachud, J"
+21,True,0,Index,Index
+22,True,1,Background of the dispute,A Background of the dispute
+23,True,1,Background of the dispute,A Background of the dispute
+24,True,1,Proposal of the Union of India,B Proposal of the Union of India
+25,True,1,Submissions,C Submissions
+26,True,1,Consequence of the policy letter dated 25 February 2019,D Consequence of the policy letter dated 25 February 2019
+27,True,1,Stereotypes and women in the Armed Forces,E Stereotypes and women in the Armed Forces
+28,True,1,Consequence of non-compliance,F Consequence of non-compliance
+29,True,1,Blanket restriction on criteria appointments,G Blanket restriction on criteria appointments
+30,True,1,Directions,H Directions
+31,True,1,Background of the dispute,A Background of the dispute
+32,True,1,Background of the dispute,A Background of the dispute
+33,True,0,2,2
+34,True,0,PART A,PART A
+35,True,-1,A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals. The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.,1. A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals.
+36,True,-1,A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals. The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.,The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.
+37,True,-1,"A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history. Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:","2. A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history."
+38,True,-1,"A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history. Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:","Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:"
+39,True,0,"“12. Ineligibility of females for enrolment or employment.- No female shall be eligible for enrolment or employment in the regular Army, except in such corps, department, branch or other body forming part of, or attached to any portion of, the regular Army as the Central Government may, by notification in the Official Gazette, specify in this behalf.”","“12. Ineligibility of females for enrolment or employment.- No female shall be eligible for enrolment or employment in the regular Army, except in such corps, department, branch or other body forming part of, or attached to any portion of, the regular Army as the Central Government may, by notification in the Official Gazette, specify in this behalf.”"
+40,True,-1,"Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army. These were:","3. Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army."
+41,True,-1,"Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army. These were:",These were:
+42,True,1,“(i),“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
+43,True,1,Army Postal Service;,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
+44,True,1,Judge Advocate General‟s Department;,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
+45,True,1,Army Education Corps;,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
+46,True,1,Army Ordinance Corps (Central Ammunition Depots and Material Management); and,(iv) Army Ordinance Corps (Central Ammunition Depots and Material Management); and
+47,True,1,Army Service Corps (Food Scientists and Catering,(v) Army Service Corps (Food Scientists and Catering Officers).”
+48,True,1,Officers).”,(v) Army Service Corps (Food Scientists and Catering Officers).”
+49,True,1,“PC”,1 “PC”
+50,True,1,“SSCs”,2 “SSCs”
+51,True,1,“1950 Act”,3 “1950 Act”
+52,True,1,SRO-,4 SRO-
