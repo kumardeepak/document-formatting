@@ -1,54 +1,57 @@
-,founds,is_substrings,doc_texts,tokens
-0,True,0,Reportable,Reportable
-1,True,0,IN THE SUPREME COURT OF INDIA,IN THE SUPREME COURT OF INDIA
-2,True,0,CIVIL APPELLATE JURISDICTION,CIVIL APPELLATE JURISDICTION
-3,True,0,Civil Appeal Nos 9367-9369 of 2011,Civil Appeal Nos 9367-9369 of 2011
-4,True,0,"The Secretary, Ministry of Defence","The Secretary, Ministry of Defence"
-5,True,0,Versus,Versus
-6,True,0,Babita Puniya & Ors.,Babita Puniya & Ors.
-7,True,0,With,With
-8,True,0,Civil Appeal Nos 1127-1128 of 2013,Civil Appeal Nos 1127-1128 of 2013
-9,True,1,With,And With
-10,True,0,And With,And With
-11,True,0,Civil Appeal No. 1210 of 2020,Civil Appeal No. 1210 of 2020
-12,True,1,Signature Not Verified,Signature Not Verified Digitally signed by
-13,True,1,Digitally signed by,Signature Not Verified Digitally signed by
-14,True,0,SANJAY KUMAR,SANJAY KUMAR
-15,True,0,Date: 2020.02.17,Date: 2020.02.17
-16,True,1,13:49:23 IST,13:49:23 IST Reason:
-17,True,1,Reason:,13:49:23 IST Reason:
-18,True,0,1,1
-19,True,0,JUDGMENT,JUDGMENT
-20,True,0,"Dr Dhananjaya Y Chandrachud, J","Dr Dhananjaya Y Chandrachud, J"
-21,True,0,Index,Index
-22,True,1,Background of the dispute,A Background of the dispute
-23,True,1,Background of the dispute,A Background of the dispute
-24,True,1,Proposal of the Union of India,B Proposal of the Union of India
-25,True,1,Submissions,C Submissions
-26,True,1,Consequence of the policy letter dated 25 February 2019,D Consequence of the policy letter dated 25 February 2019
-27,True,1,Stereotypes and women in the Armed Forces,E Stereotypes and women in the Armed Forces
-28,True,1,Consequence of non-compliance,F Consequence of non-compliance
-29,True,1,Blanket restriction on criteria appointments,G Blanket restriction on criteria appointments
-30,True,1,Directions,H Directions
-31,True,1,Background of the dispute,A Background of the dispute
-32,True,1,Background of the dispute,A Background of the dispute
-33,True,0,2,2
-34,True,0,PART A,PART A
-35,True,-1,A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals. The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.,1. A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals.
-36,True,-1,A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals. The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.,The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.
-37,True,-1,"A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history. Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:","2. A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history."
-38,True,-1,"A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history. Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:","Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:"
-39,True,0,"“12. Ineligibility of females for enrolment or employment.- No female shall be eligible for enrolment or employment in the regular Army, except in such corps, department, branch or other body forming part of, or attached to any portion of, the regular Army as the Central Government may, by notification in the Official Gazette, specify in this behalf.”","“12. Ineligibility of females for enrolment or employment.- No female shall be eligible for enrolment or employment in the regular Army, except in such corps, department, branch or other body forming part of, or attached to any portion of, the regular Army as the Central Government may, by notification in the Official Gazette, specify in this behalf.”"
-40,True,-1,"Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army. These were:","3. Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army."
-41,True,-1,"Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army. These were:",These were:
-42,True,1,“(i),“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
-43,True,1,Army Postal Service;,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
-44,True,1,Judge Advocate General‟s Department;,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
-45,True,1,Army Education Corps;,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;
-46,True,1,Army Ordinance Corps (Central Ammunition Depots and Material Management); and,(iv) Army Ordinance Corps (Central Ammunition Depots and Material Management); and
-47,True,1,Army Service Corps (Food Scientists and Catering,(v) Army Service Corps (Food Scientists and Catering Officers).”
-48,True,1,Officers).”,(v) Army Service Corps (Food Scientists and Catering Officers).”
-49,True,1,“PC”,1 “PC”
-50,True,1,“SSCs”,2 “SSCs”
-51,True,1,“1950 Act”,3 “1950 Act”
-52,True,1,SRO-,4 SRO-
+,is_substrings,doc_texts,ids,s_ids,srcs,tgts
+0,0,Reportable,dd76a49b-11a7-4fd5-bb7a-4ad4f418e3a5,c313cd23-6764-483e-bc1b-fff0525b1e2d,Reportable,रिपोर्ट योग्य
+1,0,IN THE SUPREME COURT OF INDIA,be87980a-cebd-41b3-9ab2-953505851716,a1150d63-a0ff-417d-a4a9-616ba45ceb9b,IN THE SUPREME COURT OF INDIA,भारत के सर्वोच्च न्यायालय में
+2,0,CIVIL APPELLATE JURISDICTION,97ae700f-988b-42b4-ac45-5b6d318d1e55,582dd1a5-90c3-4844-8b7d-e9374e46b2fa,CIVIL APPELLATE JURISDICTION,दीवानी अपीलीय क्षेत्राधिकार
+3,0,Civil Appeal Nos 9367-9369 of 2011,4e0c65b0-98a8-4161-ba8a-c876165561b6,996d557b-658b-4803-a61b-08fdfaca92fd,Civil Appeal Nos 9367-9369 of 2011,9367 की दीवानी अपील सं. 2011-9369
+4,0,"The Secretary, Ministry of Defence",0ad3e2fa-b064-42fb-91f1-61802625e636,60d82391-6c0d-4912-8a14-fd181600c817,"The Secretary, Ministry of Defence",रक्षा मंत्रालय के सचिव
+5,0,Versus,1ea76ffa-6d94-4e95-b348-86b0a0d1da3c,5e1e7d4f-d6a5-4f5e-adcc-4d5a750acf2e,Versus,बनाम 
+6,0,Babita Puniya & Ors.,cdf89aad-f3b3-4149-9c0b-02dade5da025,48dd087c-7a93-47c7-9a5a-ac6bfad069d6,Babita Puniya & Ors.,बबिता पुनिया और ओआरएस।
+7,0,With,db60f865-6010-499e-aa6e-0c2df0fe3f4e,eb5b502c-f8ca-4441-ad01-5142e4cc4b26,With,साथ में 
+8,-1,And With,0e4d3649-d46f-4cbc-88d6-a25305fa0090,eb5b502c-f8ca-4441-ad01-5142e4cc4b26,With,साथ में 
+9,0,Civil Appeal Nos 1127-1128 of 2013,5ae2d505-2edd-4418-92ea-1b2c74615e8c,5f3a3e01-9701-4edf-a6a2-1cc9b5813008,Civil Appeal Nos 1127-1128 of 2013,2013 की दीवानी अपील सं. 1127-1128
+10,1,With,db60f865-6010-499e-aa6e-0c2df0fe3f4e,8c866e29-7d49-46a7-8be6-ba4ee400a256,And With,और साथ में 
+11,0,And With,0e4d3649-d46f-4cbc-88d6-a25305fa0090,8c866e29-7d49-46a7-8be6-ba4ee400a256,And With,और साथ में 
+12,0,Civil Appeal No. 1210 of 2020,e3ed5662-8b17-4426-a22b-5214be4613fc,8ae0cbda-84c7-43e4-9d68-fd3b702084f9,Civil Appeal No. 1210 of 2020,2020 की दीवानी अपील सं. 1210
+13,1,Signature Not Verified,ee2c9b2f-bc65-4cdc-8f12-dec81edd78fe,aca36b8a-674e-4732-80c3-05b050e5ce25,Signature Not Verified Digitally signed by,हस्ताक्षर निर्दिष्ट डिजिटल रूप से हस्ताक्षरित नहीं
+14,1,Digitally signed by,beae1a91-11b8-4b3d-af56-6e806d958a4b,aca36b8a-674e-4732-80c3-05b050e5ce25,Signature Not Verified Digitally signed by,हस्ताक्षर निर्दिष्ट डिजिटल रूप से हस्ताक्षरित नहीं
+15,0,SANJAY KUMAR,21150688-6231-41ff-8bad-3b60cbdb1bf8,0a1bbd2d-c2cf-41c9-af38-65c86f748eaf,SANJAY KUMAR,संजय कुमार
+16,0,Date: 2020.02.17,020da067-9a37-42d7-9e98-3f20a999faf4,c50a4831-3e48-4b8f-86d3-8ebb1bfce3d2,Date: 2020.02.17,दिनांक: 2020.02.17
+17,1,13:49:23 IST,3bbaf2fc-d173-4f4d-b957-d4c481918ec5,1569aa27-d86e-4cd2-b695-3232cc7af476,13:49:23 IST Reason:,13:49:23 IST कारण:
+18,1,Reason:,c485e140-70ec-4a02-a6f1-a946875c6f32,1569aa27-d86e-4cd2-b695-3232cc7af476,13:49:23 IST Reason:,13:49:23 IST कारण:
+19,0,1,385a9d0e-ddc8-4853-9fb7-94b694f749fd,3d9c0742-7548-42ce-aa5b-633b419312f4,1,1
+20,0,1,c0946609-e19c-4524-9e9d-5f3340e4cf45,3d9c0742-7548-42ce-aa5b-633b419312f4,1,1
+21,0,JUDGMENT,2149c26a-8e7c-4766-a3d5-f26b374f7ca8,90208c02-81be-42bd-b40b-1cb2dacb4acd,JUDGMENT,निर्णय 
+22,0,"Dr Dhananjaya Y Chandrachud, J",fe4912f2-8de2-42da-b4af-2345a2b58279,84dc1a45-5ed5-44ce-83b7-29e956c5316b,"Dr Dhananjaya Y Chandrachud, J","डॉ धनंजय वाई चंद्रचूड़, जे"
+23,0,Index,2e287bd3-122d-4b14-9b74-b6a6ea6725bd,8953cc82-1b42-488e-a483-a34a57e42e88,Index,अनुक्रमणिका
+24,1,Background of the dispute,3a9125ec-2b56-4417-bfa5-b372089ed258,358cd68b-7b95-4294-b1b0-7b529a0555e7,A Background of the dispute,ए. विवाद की पृष्ठभूमि.
+25,1,Background of the dispute,aaf794a9-cc1c-4a0e-90b9-1a38caa62b0c,358cd68b-7b95-4294-b1b0-7b529a0555e7,A Background of the dispute,ए. विवाद की पृष्ठभूमि.
+26,1,Proposal of the Union of India,1b981dca-6369-4b04-8065-bbc820439e30,9e5ae307-dc7e-455a-b7c1-8b961c705e74,B Proposal of the Union of India,बी भारत संघ के प्रस्ताव
+27,1,Submissions,409d2b72-3df9-4267-9ea1-a6010b311220,9cb47418-3c89-4eb6-a80d-35b29fd57ac5,C Submissions,स.  प्रस्तुत करना
+28,1,Consequence of the policy letter dated 25 February 2019,a79bbd5a-8d25-41f7-9e11-9d8570b9a99d,887fb932-1449-4552-ba70-9d55971623b4,D Consequence of the policy letter dated 25 February 2019,डी.  दिनांक 25 फरवरी 2019 के नीति पत्र का परिणाम
+29,1,Stereotypes and women in the Armed Forces,e30a3deb-5b75-494a-8b23-2886fa7e5a3c,146a4bec-5404-4cd6-8bd1-40822d049a1e,E Stereotypes and women in the Armed Forces,इ. सशस्त्र सेना में ई स्टिरोटाइप और महिलाएं
+30,1,Consequence of non-compliance,4365524b-fd97-4a5c-9ccd-a66c93bfdb54,2fde5398-d524-40ab-9338-902400785d93,F Consequence of non-compliance,फ.  गैर-उपयोग के परिणाम
+31,1,Blanket restriction on criteria appointments,f38db8c5-897a-4f54-8456-490c7453cdf1,a6b9c571-3f9e-43e1-93f2-3596323732e2,G Blanket restriction on criteria appointments,जी. ब्लैंकेट ने मानदंडों पर भरोसा किया
+32,1,Directions,65dbe2c9-c384-4c3b-b562-81dc780b2ee7,2c769003-7da5-434c-b101-30f045bd4c53,H Directions,ह. दिशाएँ
+33,1,Background of the dispute,3a9125ec-2b56-4417-bfa5-b372089ed258,47ba17c9-c057-4fda-88c8-7223e6698699,A Background of the dispute,अ. विवाद की पृष्ठभूमि.
+34,1,Background of the dispute,aaf794a9-cc1c-4a0e-90b9-1a38caa62b0c,47ba17c9-c057-4fda-88c8-7223e6698699,A Background of the dispute,अ. विवाद की पृष्ठभूमि.
+35,0,2,c169f8f3-2201-441f-a0cb-dda7b8254260,07211b1e-e703-4c67-b427-036d2d83190e,2,2
+36,0,2,3074ea19-d2a5-45b2-a968-b26f639829c7,07211b1e-e703-4c67-b427-036d2d83190e,2,2
+37,0,PART A,53aef349-edb2-45c0-b756-bd1d432d3a12,e79e7b98-4014-475e-8866-df78d4233363,PART A,भाग ए
+38,-1,A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals. The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.,3aaf1380-d5f6-4b93-bd71-e47b4aac1013,ca78342f-ea65-4781-993d-d3d7dbb964d5,1. A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals.,1. भारतीय सेना में स्थायी आयोगों की मांग करने वाली महिलाओं के लिए अवसर की समानता की खोज इन अपीलों का आधार बनती है।
+39,-1,A quest for equality of opportunity for women seeking Permanent Commissions in the Indian Army forms the basis of these appeals. The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.,3aaf1380-d5f6-4b93-bd71-e47b4aac1013,a82ec304-a717-4c54-83e7-f927e4480040,The lead appeal originated in a batch of Writ Petitions which were instituted before the High Court of Delhi in 2003 and 2006.,लीड अपील रिट याचिकाओं के एक बैच में उत्पन्न हुई थी जिसे 2003 और 2006 में दिल्ली उच्च न्यायालय के समक्ष स्थापित किया गया था।
+40,-1,"A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history. Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:",1cf213ce-a9a2-4720-866b-ad19f27a055c,a2d2d262-663b-4608-8802-cee0b84c9d53,"2. A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history.","2. मुकदमेबाजी में एक दशक से अधिक समय लगता है, सेना में शॉर्ट सर्विस आयोगों में लगी महिलाओं को पीसी प्राप्त करने में अपने पुरुष समकक्षों के साथ समानता की तलाश है। सेना में महिलाओं के प्रवेश का एक जांचा-परखा इतिहास है।"
+41,-1,"A decade and more spent in litigation, women engaged on Short Service Commissions in the Army seek parity with their male counterparts in obtaining PCs. The entry of women in the Army has a chequered history. Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:",1cf213ce-a9a2-4720-866b-ad19f27a055c,29239072-0709-4e18-98ed-631c75710814,"Section 12 of the Army Act 1950 contains, in so far as it is material, the following provisions:","सेना अधिनियम 1950 की धारा 12 में, जहां तक यह सामग्री है, निम्नलिखित प्रावधान हैं:"
+42,0,"“12. Ineligibility of females for enrolment or employment.- No female shall be eligible for enrolment or employment in the regular Army, except in such corps, department, branch or other body forming part of, or attached to any portion of, the regular Army as the Central Government may, by notification in the Official Gazette, specify in this behalf.”",770d93fb-5d67-4e12-a82e-34536487de80,5743a6b8-11ba-4310-890e-a5f92da87e07,"“12. Ineligibility of females for enrolment or employment.- No female shall be eligible for enrolment or employment in the regular Army, except in such corps, department, branch or other body forming part of, or attached to any portion of, the regular Army as the Central Government may, by notification in the Official Gazette, specify in this behalf.”","12. नामांकन या नियोजन के लिए महिलाओं की अयोग्यता।-कोई भी महिला नियमित सेना में नामांकन या रोजगार के लिए पात्र नहीं होगी, सिवाय ऐसे कोर, विभाग, शाखा या अन्य निकाय में, जो केन्द्रीय सरकार के रूप में नियमित सेना के किसी भी हिस्से का हिस्सा बन या उससे जुड़ी हो, राजपत्र में अधिसूचना द्वारा, इस संबंध में निर्दिष्ट नहीं कर सकती है।"
+43,-1,"Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army. These were:",c386cb86-9993-4e13-8a56-130fe128b275,206097d6-24bf-4f7b-a729-be668f22b9b6,"3. Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army.","3. धारा 12 द्वारा प्रदत्त शक्ति के अनुसार, केंद्र सरकार ने 30 जनवरी 1992 को एक अधिसूचना जारी की, जिसमें महिला को सेना की विशिष्ट शाखाओं/संवर्गों में अधिकारियों के रूप में नियुक्ति के लिए पात्र बनाया गया।"
+44,-1,"Pursuant to the power conferred by Section 12, the Union Government issued a notification dated 30 January 1992 making women eligible for appointment as officers in the specific branches/cadres of the Army. These were:",c386cb86-9993-4e13-8a56-130fe128b275,64d40b46-b1df-4030-9598-04394ce3ad03,These were:,ये थे:
+45,1,“(i),d18ea4de-7e58-45c7-9c32-24c724e6b220,4078d96c-c966-4aa9-81f1-d15658633fac,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;,'(i) सेना डाक सेवा; (ii) न्यायाधीश महाधिवक्ता विभाग; (iii) सेना शिक्षा कोर;
+46,1,Army Postal Service;,e1a08aed-20a1-415e-b339-cefb121f51ef,4078d96c-c966-4aa9-81f1-d15658633fac,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;,'(i) सेना डाक सेवा; (ii) न्यायाधीश महाधिवक्ता विभाग; (iii) सेना शिक्षा कोर;
+47,1,Judge Advocate General‟s Department;,3cf22923-ecfb-4ab7-9849-74c87415e5ad,4078d96c-c966-4aa9-81f1-d15658633fac,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;,'(i) सेना डाक सेवा; (ii) न्यायाधीश महाधिवक्ता विभाग; (iii) सेना शिक्षा कोर;
+48,1,Army Education Corps;,49a37b41-938b-4786-af9a-ca3fb1a99e34,4078d96c-c966-4aa9-81f1-d15658633fac,“(i) Army Postal Service; (ii) Judge Advocate General‟s Department; (iii) Army Education Corps;,'(i) सेना डाक सेवा; (ii) न्यायाधीश महाधिवक्ता विभाग; (iii) सेना शिक्षा कोर;
+49,1,Army Ordinance Corps (Central Ammunition Depots and Material Management); and,006ebbaf-c95c-4e63-8921-0997bdd71557,b4009d00-6f0f-4d71-9486-927e9e66b76d,(iv) Army Ordinance Corps (Central Ammunition Depots and Material Management); and,(iv) सेना अध्यादेश कोर (केंद्रीय गोला बारूद डिपो और सामग्री प्रबंधन); और
+50,1,Army Service Corps (Food Scientists and Catering,f02f7914-1eef-4942-8381-8119498bde44,c41f100b-2cdc-4b09-b832-d0cab397a52b,(v) Army Service Corps (Food Scientists and Catering Officers).”,(v) सेना सेवा कोर (खाद्य वैज्ञानिक और खानपान अधिकारी)।
+51,1,Officers).”,bd82e634-399d-4ccd-90dc-dc74229d82de,c41f100b-2cdc-4b09-b832-d0cab397a52b,(v) Army Service Corps (Food Scientists and Catering Officers).”,(v) सेना सेवा कोर (खाद्य वैज्ञानिक और खानपान अधिकारी)।
+52,1,“PC”,c7253fa1-2a28-4467-9055-623c9841c16f,5e88e19e-c4be-4adc-a037-25202ba8f23e,1 “PC”,1 पी. सी.
+53,1,“SSCs”,cf7d2953-049b-427f-b5b2-63cd9195dced,8cd435e9-4d97-4387-b318-231aa32f8f16,2 “SSCs”,2 एसएससी
+54,1,“1950 Act”,0e62f6ec-f03a-42e9-82fc-2baa104c7996,d09bb71b-40b0-41e7-92ec-ba8259833653,3 “1950 Act”,3 1950 अधिनियम
+55,1,SRO-,ed203a2a-10d6-4916-a65b-697c603e178d,727f9d09-fb54-4ee5-99b1-d7de5aba3976,4 SRO-,4 SRO 
