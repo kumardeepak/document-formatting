@@ -1,0 +1,49 @@
+,percent,ratio,overlap,doc_text,src,tgt,s_id,doc_id
+0,1.0,1.0,PART A,PART A,PART A,भाग ए,65b33e91-152a-4bdc-97cb-4e92598d674f,791adf04-70c5-4029-8581-9e0f96579c29
+7,1.0,1.0,PART A,PART A,PART A,भाग ए,65b33e91-152a-4bdc-97cb-4e92598d674f,82256fe4-8ad8-4aac-8e9c-3e0280cf8bb9
+15,1.0,1.0,PART A,PART A,PART A,भाग ए,65b33e91-152a-4bdc-97cb-4e92598d674f,42df7762-ee66-4b9b-b60b-02095d6b9e8e
+27,1.0,1.0,PART A,PART A,PART A,भाग ए,65b33e91-152a-4bdc-97cb-4e92598d674f,f9c7d266-7ab0-4b21-8908-3e3b728b5e93
+39,1.0,1.0,PART A,PART A,PART A,भाग ए,65b33e91-152a-4bdc-97cb-4e92598d674f,ee2a111e-3b8a-49b2-9e07-aebe30122460
+46,1.0,1.0,PART A,PART A,PART A,भाग ए,65b33e91-152a-4bdc-97cb-4e92598d674f,3d824802-2642-40f8-b1d2-25b7bdcc68bf
+360,1.0,1.0,"“19. Disposal on Expiry of Commission. On expiry of contractual period of commission i.e. five years/ ten years from the date of grant of commission as the case may be, they will be released from the service. The officers granted commission under these Army Instruction will not be granted permanent commission.”","“19. Disposal on Expiry of Commission. On expiry of contractual period of commission i.e. five years/ ten years from the date of grant of commission as the case may be, they will be released from the service. The officers granted commission under these Army Instruction will not be granted permanent commission.”","“19. Disposal on Expiry of Commission. On expiry of contractual period of commission i.e. five years/ ten years from the date of grant of commission as the case may be, they will be released from the service. The officers granted commission under these Army Instruction will not be granted permanent commission.”","19. आयोग की समाप्ति पर निपटान। कमीशन के अनुदान की तारीख से पांच वर्ष/दस वर्ष की अवधि की समाप्ति पर, जैसा भी मामला हो, वे सेवा से मुक्त हो जाएंगे। इन सेना निर्देश के तहत कमीशन प्रदान किए गए अधिकारियों को स्थायी कमीशन नहीं दिया जाएगा।",629c7971-a45f-4ce6-b572-5a4a7ef758b1,46c03c6f-3dfb-4b8b-a347-bd463b0a5d70
+612,1.0,1.0,PART A,PART A,PART A,भाग ए,37fd91d2-bf3a-49ac-b48f-0a44b0adbf04,791adf04-70c5-4029-8581-9e0f96579c29
+619,1.0,1.0,PART A,PART A,PART A,भाग ए,37fd91d2-bf3a-49ac-b48f-0a44b0adbf04,82256fe4-8ad8-4aac-8e9c-3e0280cf8bb9
+627,1.0,1.0,PART A,PART A,PART A,भाग ए,37fd91d2-bf3a-49ac-b48f-0a44b0adbf04,42df7762-ee66-4b9b-b60b-02095d6b9e8e
+639,1.0,1.0,PART A,PART A,PART A,भाग ए,37fd91d2-bf3a-49ac-b48f-0a44b0adbf04,f9c7d266-7ab0-4b21-8908-3e3b728b5e93
+651,1.0,1.0,PART A,PART A,PART A,भाग ए,37fd91d2-bf3a-49ac-b48f-0a44b0adbf04,ee2a111e-3b8a-49b2-9e07-aebe30122460
+658,1.0,1.0,PART A,PART A,PART A,भाग ए,37fd91d2-bf3a-49ac-b48f-0a44b0adbf04,3d824802-2642-40f8-b1d2-25b7bdcc68bf
+669,1.0,1.0,6,6,6,6 ,9da7d7fb-1415-4958-8c21-6d40daccf892,5d0c109f-b743-43ca-bc73-be12a1bc9f2d
+1289,1.0,1.0,7,7,7,7,5e057e08-30e2-406d-b19c-c63cb5fd505e,b2214705-e6da-415e-a314-075e6c72ec75
+1326,1.0,1.0,PART A,PART A,PART A,भाग ए,ed37db30-5f79-4fb7-84af-f63354413d39,791adf04-70c5-4029-8581-9e0f96579c29
+1333,1.0,1.0,PART A,PART A,PART A,भाग ए,ed37db30-5f79-4fb7-84af-f63354413d39,82256fe4-8ad8-4aac-8e9c-3e0280cf8bb9
+1341,1.0,1.0,PART A,PART A,PART A,भाग ए,ed37db30-5f79-4fb7-84af-f63354413d39,42df7762-ee66-4b9b-b60b-02095d6b9e8e
+1353,1.0,1.0,PART A,PART A,PART A,भाग ए,ed37db30-5f79-4fb7-84af-f63354413d39,f9c7d266-7ab0-4b21-8908-3e3b728b5e93
+1365,1.0,1.0,PART A,PART A,PART A,भाग ए,ed37db30-5f79-4fb7-84af-f63354413d39,ee2a111e-3b8a-49b2-9e07-aebe30122460
+1372,1.0,1.0,PART A,PART A,PART A,भाग ए,ed37db30-5f79-4fb7-84af-f63354413d39,3d824802-2642-40f8-b1d2-25b7bdcc68bf
+1858,1.0,1.0,Para 1(g) provided for the adjustment of seniority:,Para 1(g) provided for the adjustment of seniority:,Para 1(g) provided for the adjustment of seniority:,वरिष्ठता के समायोजन के लिए प्रदान किया गया पैरा 1 (जी):,1e99d85e-40b1-4402-aee1-b8ea4e269319,3e085f63-d7b2-4dad-ab19-84cc3cbeb27b
+2270,1.0,1.0,8,8,8,8,4a40967d-c109-48c2-b644-328ee3547e42,87bf03ba-9066-4b51-98f9-bd8c03a8cb25
+2295,1.0,1.0,PART A,PART A,PART A,भाग ए,91ab4f58-31a1-4432-aacf-f7b5633029c2,791adf04-70c5-4029-8581-9e0f96579c29
+2302,1.0,1.0,PART A,PART A,PART A,भाग ए,91ab4f58-31a1-4432-aacf-f7b5633029c2,82256fe4-8ad8-4aac-8e9c-3e0280cf8bb9
+2310,1.0,1.0,PART A,PART A,PART A,भाग ए,91ab4f58-31a1-4432-aacf-f7b5633029c2,42df7762-ee66-4b9b-b60b-02095d6b9e8e
+2322,1.0,1.0,PART A,PART A,PART A,भाग ए,91ab4f58-31a1-4432-aacf-f7b5633029c2,f9c7d266-7ab0-4b21-8908-3e3b728b5e93
+2334,1.0,1.0,PART A,PART A,PART A,भाग ए,91ab4f58-31a1-4432-aacf-f7b5633029c2,ee2a111e-3b8a-49b2-9e07-aebe30122460
+2341,1.0,1.0,PART A,PART A,PART A,भाग ए,91ab4f58-31a1-4432-aacf-f7b5633029c2,3d824802-2642-40f8-b1d2-25b7bdcc68bf
+2374,1.0,1.0,"Consequently, all other provisions contained in SAI-1/S/1992 were to apply mutatis mutandis to women who were granted SSCs.","Consequently, all other provisions contained in SAI-1/S/1992 were to apply mutatis mutandis to women who were granted SSCs.","Consequently, all other provisions contained in SAI-1/S/1992 were to apply mutatis mutandis to women who were granted SSCs.","नतीजतन, SAI-1/S/1992 में निहित अन्य सभी प्रावधान उन महिलाओं के लिए उत्परिवर्ती उत्परिवर्तन लागू करने के लिए थे जिन्हें SSC प्रदान किया गया था।",640ff627-14c1-4fb7-8fbf-40acb6f9feea,129b4bac-1a2c-4953-85bb-2e3149437ada
+2684,1.0,1.0,“61…,“61…,“61…,61...,15d570a4-7c2c-443e-867d-ecc1a9f2a731,c59c2ec4-1078-40a0-85a2-f7260fbbfbc0
+2945,1.0,1.0,9,9,9,9,fda0276c-328d-4079-9e61-9835473b7b6a,4b1ab87d-4e65-4f72-ab08-a4ca80a05274
+2958,1.0,1.0,PART A,PART A,PART A,भाग ए,af4b3c6e-2c5d-46fc-a578-439f050e2765,791adf04-70c5-4029-8581-9e0f96579c29
+2965,1.0,1.0,PART A,PART A,PART A,भाग ए,af4b3c6e-2c5d-46fc-a578-439f050e2765,82256fe4-8ad8-4aac-8e9c-3e0280cf8bb9
+2973,1.0,1.0,PART A,PART A,PART A,भाग ए,af4b3c6e-2c5d-46fc-a578-439f050e2765,42df7762-ee66-4b9b-b60b-02095d6b9e8e
+2985,1.0,1.0,PART A,PART A,PART A,भाग ए,af4b3c6e-2c5d-46fc-a578-439f050e2765,f9c7d266-7ab0-4b21-8908-3e3b728b5e93
+2997,1.0,1.0,PART A,PART A,PART A,भाग ए,af4b3c6e-2c5d-46fc-a578-439f050e2765,ee2a111e-3b8a-49b2-9e07-aebe30122460
+3004,1.0,1.0,PART A,PART A,PART A,भाग ए,af4b3c6e-2c5d-46fc-a578-439f050e2765,3d824802-2642-40f8-b1d2-25b7bdcc68bf
+3254,1.0,1.0,"It is made clear that those women officers who have not attained the age of retirement available for the Permanent Commissioned officers shall, however, be reinstated in service and shall be granted all consequential benefits including promotion, etc. except for the pay and allowance for the period they have not been in service.","It is made clear that those women officers who have not attained the age of retirement available for the Permanent Commissioned officers shall, however, be reinstated in service and shall be granted all consequential benefits including promotion, etc. except for the pay and allowance for the period they have not been in service.","It is made clear that those women officers who have not attained the age of retirement available for the Permanent Commissioned officers shall, however, be reinstated in service and shall be granted all consequential benefits including promotion, etc. except for the pay and allowance for the period they have not been in service.","यह स्पष्ट किया जाता है कि जिन महिला अधिकारियों ने स्थायी कमीशन अधिकारियों के लिए उपलब्ध सेवानिवृत्ति की आयु प्राप्त नहीं की है, उन्हें सेवा में बहाल किया जाएगा और पदोन्नति सहित सभी परिणामी लाभ दिए जाएंगे, सिवाय वेतन और भत्ते के अवधि वे सेवा में नहीं रहे हैं।",7915670d-2efb-4de5-88cc-472326c2183b,153c7763-8339-4fb9-a35d-8f51c1b1d876
+3357,1.0,1.0,The necessary steps including release of financial benefits shall be done by the authorities within two (2) months of passing of this order.”,The necessary steps including release of financial benefits shall be done by the authorities within two (2) months of passing of this order.”,The necessary steps including release of financial benefits shall be done by the authorities within two (2) months of passing of this order.”,वित्तीय लाभ जारी करने सहित आवश्यक कदम इस आदेश के पारित होने के दो (2) महीनों के भीतर अधिकारियों द्वारा किए जाएंगे। ”,4f467a73-a684-4d24-8c5e-5ca98e175e1c,ec7af5fb-f476-4691-a796-5a36ba4001e0
+3409,1.0,1.0,"At this stage, it would be appropriate to briefly dwell on the above directions.","At this stage, it would be appropriate to briefly dwell on the above directions.","At this stage, it would be appropriate to briefly dwell on the above directions.","इस स्तर पर, उपरोक्त निर्देशों पर संक्षेप में ध्यान देना उचित होगा।",14d18681-4151-41b5-be97-a1b8662b25e1,b1bb268e-e0e4-4153-af3a-8e74f9c09b65
+3768,1.0,1.0,10,10,10,10,e3aea4da-582a-4a9a-9b75-bb8a4531ab45,a4b26445-e401-4fca-a70a-338e6944b8b8
+3774,1.0,1.0,PART A,PART A,PART A,भाग ए,aa31925a-666e-4eb7-98f2-16b389fdf47b,791adf04-70c5-4029-8581-9e0f96579c29
+3781,1.0,1.0,PART A,PART A,PART A,भाग ए,aa31925a-666e-4eb7-98f2-16b389fdf47b,82256fe4-8ad8-4aac-8e9c-3e0280cf8bb9
+3789,1.0,1.0,PART A,PART A,PART A,भाग ए,aa31925a-666e-4eb7-98f2-16b389fdf47b,42df7762-ee66-4b9b-b60b-02095d6b9e8e
+3801,1.0,1.0,PART A,PART A,PART A,भाग ए,aa31925a-666e-4eb7-98f2-16b389fdf47b,f9c7d266-7ab0-4b21-8908-3e3b728b5e93
+3813,1.0,1.0,PART A,PART A,PART A,भाग ए,aa31925a-666e-4eb7-98f2-16b389fdf47b,ee2a111e-3b8a-49b2-9e07-aebe30122460
+3820,1.0,1.0,PART A,PART A,PART A,भाग ए,aa31925a-666e-4eb7-98f2-16b389fdf47b,3d824802-2642-40f8-b1d2-25b7bdcc68bf
